@@ -1,0 +1,38 @@
+Strucute Tag
+1. Open tag and closing tag. HTML written in between their tag
+2. Head and Body-> Head include important like meta information. Body include whole code about page.
+3. Learn about Html using nbn doc and w3 school
+4. Semantics -> Body-> header, main, footer helpful for the understanding browser and developer. Used full for SEO
+5. Header About
+6. Main- Blog, content, data
+7. Footer- Copywrite, about page.
+8. Heading- H1,H2,H3,H4,H5,H6 Why used h4, h5, h6 beacause similar in size
+9. Comments
+Head Tags
+10. Strong and Bold tag. B only bold but Strong emphasize and advanced version of Bold. Differnce in small screen where 
+    size is small or by default bold.
+11. Italic tag<i>, u tag used undercore nut also used <ins> features: It used as delete any thing <delete> and then insert
+
+12. Aside Tags- used for ignoring data, ads, navigation button.
+
+13. Break tag-> <br> single line Break. &nbsp; This is the html entity- non-breaking space when two more words in display pne line
+14. Anchor Yalue -  Link - Two type Relative and Expilte link
+        When Relative link same page and Explisite used when other page
+
+15. Self closing Tag-> No need to content thats why used. img src, span
+
+16. Block elements atkes 100 width max and inLine element(suffiencent required space) *better understanding in css.
+17. Differnce between Html version
+18. DIV Tag-> Non-Semantics, SECTION Tag
+19. Target Tag-> Self, blank, Parent, Top  
+20. Grand Parent -> Parent -> Child-> _black,_self,_parent,_top
+21. SECTION ->
+22. LIST three types Order list, Unorderlist, distributed list
+23. Table->
+24. Form element- Button, Attribute
+25. Abbrevation
+26. Cite,q,blockqoute,bdo,audio,video,file tag
+27. Pagegination, why --.com? DNS ?
+
+
+
