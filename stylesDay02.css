@@ -1,0 +1,165 @@
+/* .parent {
+    background-color: cornsilk;
+    margin: 16px;
+    padding: 16px;
+    left: auto;
+    right: auto;
+    border: 2px solid #ccc;
+    text-align: center;
+}
+.Child {
+    background-color: khaki;
+    margin: 16px;
+    padding: 16px;
+    border: 1px solid #ccc;
+    width: fit-content;
+    text-align: center;
+}
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Arial', sans-serif; 
+    color: #33475b;    
+    }
+  img{
+    padding: 20px; 
+  } */
+
+
+/* By default */
+* 
+body{
+    height:100vh ;
+    width: 100vw;
+    padding: 10px 32px;
+   
+}
+
+/* Selector */
+/* .parent{
+    ul{
+        background-color: purple;
+        li:nth-child(2){
+            background-color: grey;
+        }
+    }
+    ul:first-child{
+        background-color: blue;
+    }
+    ol:last-child{
+        background-color: green;
+        li:nth-child(2){
+            background-color: yellow;
+        }
+    }
+  */
+
+
+    /* li:nth-child(2){
+        background-color: aqua;
+    } */
+/* } */
+
+/* .font{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font:50rem;
+} */
+
+/* 
+.parent-ul{
+
+    background-color: aquamarine;
+}
+.parent-ol{
+    background-color:  blanchedalmond;
+} */
+
+
+/* FlexBox */
+.parent{
+    justify-content: space-between;
+    background-color: orange;
+    display: flex;
+    align-items: baseline;
+}
+.parent1{
+    justify-content: space-between;
+    background-color: aqua;
+    display: flex;
+}
+
+.parent2{
+    justify-content: space-between;
+    background-color: aqua;
+    display: flex;
+}
+
+.parent3{
+    justify-content: space-between;
+    background-color: grey;
+    display: flex;
+}
+
+.parent4{
+    justify-content: space-between;
+    background-color: yellow;
+    display: flex;
+}
+
+.logo{
+    padding: 40px;
+}
+
+.child{
+    background-color: antiquewhite;
+    border: 1px solid red;
+    flex-basis: 100px;
+    flex-shrink: 0px;
+}
+.search-box{
+    flex-grow: 3;
+    flex-shrink: 1;
+}
+
+.cart{
+
+}
+
+
+
+
+
+
+
+
+
+
+/* .btn{
+    padding: auto;
+    display: block;
+    background-color: red;
+    border: none;
+    margin: 0 none;
+    font-size: auto;
+    width: auto;
+    
+}
+.btm-big{
+    font-size: 20px;
+}
+body{
+    height: 100%;
+    background-color:green;
+
+}
+.parent{
+    height: 100%;
+    background-color: red;
+}
+.child{
+    height: 100%;
+    background-color: ye;
+} */
+
+
