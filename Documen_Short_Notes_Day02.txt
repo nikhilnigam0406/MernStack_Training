@@ -1,0 +1,11 @@
+1. PPi vs DPi, Physical and Logical part Differnce
+2. Box Model, Content Model
+3. CSS units: REM, em, px
+4. In-line, internal and external, Padding Margin Left Right
+5. ViewPort
+6. Selectors: Four Main Selectors
+7. Anything write betweeen li nth cdde then not working
+8. Justify item, align-
+
+
+
