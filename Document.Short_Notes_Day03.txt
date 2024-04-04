@@ -1,0 +1,8 @@
+1.Grid area
+2. Grid Repeat
+3. Grid Position
+4. Relative vs Absolute
+5. Sticky
+Javascript
+1. Hoisting
+2. 
