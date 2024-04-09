@@ -1,0 +1,6 @@
+# Date: 09/04/2024
+Latancy, Req-->Res and vice-versa, Roundtrilatacny, processingfive.
+https://developer.mozilla.org/en-US/docs/Web/Performance/Understanding_latency
+Write function in file is good or not
+NODE JS
+-
